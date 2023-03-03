@@ -1,0 +1,16 @@
+{
+  "Button": {
+    "paddingTiny": "10px 10px"
+  },
+  "common": {
+    "primaryColor": "rgba(235, 108, 46, 1)",
+    "primaryColorHover": "#EB6C2EFF",
+    "primaryColorPressed": "#EB6C2EFF",
+    "baseColor": "#FFF",
+    "dividerColor": "rgb(239, 239, 245)",
+    "borderColor": "rgb(224, 224, 230)",
+    "textColorBase": "#000",
+    "fontFamily": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji",
+    "fontFamilyMono": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "hash": "966ded2b",
+  "browserHash": "f27c7376",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.store/vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "453b4eda",
+      "needsInterop": false
+    },
+    "screenfull": {
+      "src": "../../../../node_modules/.store/screenfull@6.0.2/node_modules/screenfull/index.js",
+      "file": "screenfull.js",
+      "fileHash": "5f2e5536",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

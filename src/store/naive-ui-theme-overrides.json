@@ -1,0 +1,21 @@
+{
+  "common": {
+    "primaryColor": "#FD803FF0",
+    "primaryColorHover": "#F07F45F0",
+    "primaryColorPressed": "#C2551EFF"
+  },
+  "Menu": {
+    "itemColorActive": "rgba(240, 135, 80, 0.85)",
+    "groupTextColor": "rgba(45, 92, 138, 1)",
+    "itemTextColorHover": "#DF6221FF",
+    "borderRadius": "3px",
+    "color": "#00000000",
+    "itemTextColor": "rgb(51, 54, 57)",
+    "itemTextColorChildActive": "#220F06F0",
+    "itemTextColorActive": "#FFFFFFF0",
+    "fontSize": "15px",
+    "itemColorActiveCollapsed": "#AB4E4E00",
+    "itemIconColorHover": "#F07F45F0",
+    "itemIconColor": "rgb(31, 34, 37)"
+  }
+}

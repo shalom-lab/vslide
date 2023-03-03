@@ -1,0 +1,198 @@
+{
+  "id": "2851821",
+  "name": "vslide",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10196683",
+      "name": "doc_a",
+      "font_class": "doc",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "15838470",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "998818",
+      "name": "保存",
+      "font_class": "save",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "11215219",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "544933",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e8dc",
+      "unicode_decimal": 59612
+    },
+    {
+      "icon_id": "13660607",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "18309134",
+      "name": "window-maximize",
+      "font_class": "maximize",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1615486",
+      "name": "表格",
+      "font_class": "data",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7596473",
+      "name": "24gl-borderOutside",
+      "font_class": "border",
+      "unicode": "eaff",
+      "unicode_decimal": 60159
+    },
+    {
+      "icon_id": "3716174",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "9149488",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "4315923",
+      "name": "轮播",
+      "font_class": "view",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "755543",
+      "name": "固定",
+      "font_class": "fix",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "991642",
+      "name": "最小化",
+      "font_class": "minimize",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1304884",
+      "name": "删除",
+      "font_class": "delete",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1510324",
+      "name": "设置",
+      "font_class": "set",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2400902",
+      "name": "退出放映",
+      "font_class": "exit",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2404491",
+      "name": "文本",
+      "font_class": "text",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "5387862",
+      "name": "关闭_o",
+      "font_class": "close",
+      "unicode": "eb76",
+      "unicode_decimal": 60278
+    },
+    {
+      "icon_id": "5993150",
+      "name": "复制",
+      "font_class": "copy",
+      "unicode": "ec7a",
+      "unicode_decimal": 60538
+    },
+    {
+      "icon_id": "31022561",
+      "name": "柱状图-01-copy-copy",
+      "font_class": "echart",
+      "unicode": "ec7c",
+      "unicode_decimal": 60540
+    },
+    {
+      "icon_id": "8676277",
+      "name": "添加",
+      "font_class": "add",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "9111919",
+      "name": "配置",
+      "font_class": "style",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "9613221",
+      "name": "simui-minmax",
+      "font_class": "minmax",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "12550358",
+      "name": "新建",
+      "font_class": "new",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "17581243",
+      "name": "缩放",
+      "font_class": "animate",
+      "unicode": "ec38",
+      "unicode_decimal": 60472
+    },
+    {
+      "icon_id": "7594155",
+      "name": "24gf-play",
+      "font_class": "play",
+      "unicode": "ea82",
+      "unicode_decimal": 60034
+    }
+  ]
+}
