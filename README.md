@@ -6,7 +6,7 @@ VSlide，一款基于网页的数据可视化工具应运而生，旨在让普�
 
 ## Demo
 
-[vslide.cn](https:/vslide.cn)
+[vslide.cn](https://vslide.cn)
 
 ## Get Started
 
@@ -28,6 +28,7 @@ npm run build
 
 ## 组件丰富
 除交互式图表外,也支持图片,表格,文本,markdown
+
 ![交互式图表](./image/atoms.png)
 
 ![组件丰富](./image/vslide-feature-atom.gif)
