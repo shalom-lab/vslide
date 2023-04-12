@@ -1,64 +1,68 @@
-<h1 align="center">欢迎使用微思文稿 👋</h1>
+<h1 align="center">Welcome to VSlide 👋</h1>
 
-信息技术飞速发展，大数据时代已然到来，数据正日益成为人类社会中重要的生产要素。数据可视化，也即以人类直观易懂的形式对数据进行呈现，是数据挖掘以及信息展示的重要环节，对于发掘数据背后的价值，有重要意义。
+<h2>Background <a href="./README.zh-Hans.md"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-%E4%B8%AD%E6%96%87%E7%89%88-white?labelColor=white" alt="前往中文版" align="right" height="24"/></a></h2>
 
-VSlide，一款基于网页的数据可视化工具应运而生，旨在让普通用户便捷地创作支持交互式数据可视化图表的演示文稿。
+With the rapid development of information technology, the era of big data has arrived, and data is increasingly becoming an important production factor in human society. Data visualization, that is, the presentation of data in an intuitive and easy-to-understand form for humans, is an important part of data mining as well as information presentation, and is of great significance for discovering the value behind the data.
 
-## Demo
+VSlide, a web-based data visualization tool, was created to make it easy for the average user to create presentations that support interactive data visualization charts.
+
+# Demo
 
 [vslide.cn](https://vslide.cn)
 
-## Get Started
+# Get Started
 
 ```sh
 npm install
 npm run serve
 npm run build
 ```
-## Features
-## 简单易用
-零代码制作交互式图表，点击式操作，推拽式布局，不需要任何基础,使用文档详细。
-![简单易用](./image/vslide-feature-easy.gif)
+# Features
+## Easy to use
+Interactive charts with zero code, click-and-drag operation, push-and-drop layout, no need for any foundation, detailed documentation.
+No need to have any basic knowledge. [Easy to use](. /image/vslide-feature-easy.gif)
 
-## 交互式图表
-各类图表应有尽有，所有图表均支持交互
+## Interactive charts
+All kinds of charts are available, all charts are interactive
 
 
-![交互式图表](./image/vslide-feature-interactive.gif)
+![Interactive charts](./image/vslide-feature-interactive.gif)
 
-## 组件丰富
-除交互式图表外,也支持图片,表格,文本,markdown
+## Rich components
+In addition to interactive charts, images, tables, text, markdown are also supported.
 
-![交互式图表](./image/atoms.png)
+![interactive-chart](./image/atoms.png)
 
-![组件丰富](./image/vslide-feature-atom.gif)
+![component-rich](./image/vslide-feature-atom.gif)
 
-## 灵活布局
-18 × 18网格,自由拖拽，随意布局。
-![动画](./image/vslide-feature-drag.gif)
+## Flexible layout
+18 × 18 grid, free drag and drop, layout at will.
+![animation](./image/vslide-feature-drag.gif)
 
-## 功能强大
-- 编辑模式下制作幻灯片
-- 放映、浏览、文档模式下展示幻灯片，放映模式支持动画。
+## Powerful features
+- Create slideshows in editing mode
+- Show slideshows in projection, browse, and document modes, with animation support in projection mode.
 
-![动画](./image/vslide-feature-animate.gif)
+![animation](./image/vslide-feature-animate.gif)
 
-## 一键分享
-一键复制分享链接，让更多人看到你的作品
-![分享文稿](./image/vslide-file-share.gif)
-## Structure
+## One-click sharing
+One-click copy share link to let more people see your work
+![Share Manuscript](./image/vslide-file-share.gif)
+
+# Structure
 ![](./image/vslide-tec.png)
-| **名称**        | **协议**         | **功能**            |
+| **name** | **protocol** | **function** |
 | --------------- | ---------------- | ------------------- |
-| [Vue.js](https://vuejs.org/)          | MIT              | 数据驱动            |
-| [Vuex](https://vuex.vuejs.org/)           | MIT              | Vue数据中心化管理   |
-| [Echarts](https://echarts.apache.org/)         | Apache-2.0       | 交互式可视化图表    |
-| [Vue-echarts](https://github.com/ecomfe/vue-echarts)     | MIT              | Vue版本的echarts    |
-| [Vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) | MIT              | 布局与排版          |
-| [Naive UI](https://www.naiveui.com/)       | MIT              | UI组件，表单组件    |
-| [md-ediotr-v3](https://imzbf.github.io/)        | MIT              | Markdown编辑器          |
-| [Animate.css](https://animate.style/)     |  Hippocratic License   | 动画控制            |
-| [Handsontable](https://handsontable.com/)        |               | 数据输入          |
-## Show your support
+| [Vue.js](https://vuejs.org/) | MIT | data-driven |
+| [Vuex](https://vuex.vuejs.org/) | MIT | Vue Data Centering Manager |
+| [Echarts](https://echarts.apache.org/) | Apache-2.0 | Interactive Visual Charting |
+| [Vue-echarts](https://github.com/ecomfe/vue-echarts) | MIT | Vue version of echarts |
+| [Vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) | MIT | Layout and typography |
+| [Naive UI](https://www.naiveui.com/) | MIT | UI components, form components |
+| [md-ediotr-v3](https://imzbf.github.io/) | MIT | Markdown Editor |
+| [Animate.css](https://animate.style/) | Hippocratic License | Animation Control |
+| [Handsontable](https://handsontable.com/) | | Data Entry |
+# Show your support
 
 Give a ⭐️ if this project helped you!
+
