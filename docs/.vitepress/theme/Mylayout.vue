@@ -21,8 +21,10 @@ export default {
 <template>
   <Layout>
     <template #aside-outline-after>
-      <img src="./rlearner.jpg" />
       <img src="./epi-stats.png" />
+      <div style="margin:0 auto">
+        <p>扫码关注</p>
+      </div>
     </template>
     <template #home-features-after>
       <div class="box">
@@ -41,7 +43,7 @@ export default {
     <template #doc-after>
       <div class="footer">
         <p class="vslide"><a href="https://vslide.cn">微思文稿(vslide.cn)</a>-免费好用的数据可视化工具</p>
-        <p><a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备2022018163号-2</a> 友情链接: <a target='_blank' href='https://rlearner.com'>R语言学习</a> <a target='_blank' href='https://blog.rlearner.com'>博客</a></p>
+        <p><a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备2022018163号-2</a> 友情链接: <a target='_blank' href='https://blog.rlearner.com'>博客</a></p>
       </div>
     </template>
     <template #layout-top>
@@ -71,8 +73,8 @@ export default {
   border-radius: 2px;
 }
 img {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
 .footer {
   padding-top: 20px;

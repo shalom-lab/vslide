@@ -1,11 +1,13 @@
+import { defineConfig } from 'vitepress'
 import atomSidebar from "./atomSidebar";
 import docSidebar from "./docSidebar";
 import ideaSidebar from "./ideaSidebar";
 import pricingSidebar from "./pricingSidebar";
 
-export default {
-  base: "/",
+// https://vitepress.dev/reference/site-config
+export default defineConfig({
   outDir: "./.vitepress/docs",
+  ignoreDeadLinks: true,
   title: "微思文稿", // 所有文档的浏览器标签title
   description: "零代码零基础免费制作数据可视化图表,在线图表制作", // 会渲染成<meta>标签，SEO用
   head: [
@@ -19,6 +21,7 @@ export default {
     logo: "/logo.png",
 
     nav: [
+      { text: "主页", link: "/" },
       { text: "立即使用", link: "https://vslide.cn/dataviz/" },
       { text: "文档", link: "/doc/", activeMatch: "/doc/" },
       { text: "组件", link: "/atom/", activeMatch: "/atom/" },
@@ -42,12 +45,12 @@ export default {
 
     footer: {
       message: "<a href='https://vslide.cn'>微思文稿</a>(vslide.cn)-免费好用的数据可视化工具",
-      copyright: "Copyright © 2022-present VSlide <a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备2022018163号-2</a> 友情链接: <a target='_blank' href='https://rlearner.com'>R语言学习</a> <a target='_blank' href='https://blog.rlearner.com'>博客</a>",
+      copyright: "Copyright © 2022-present VSlide <a href='https://beian.miit.gov.cn' target='_blank'>豫ICP备2022018163号-2</a> 友情链接: <a target='_blank' href='https://blog.rlearner.com'>博客</a>",
     },
     docFooter: {
       prev: "上一节",
       next: "下一节",
     },
     outlineTitle: '目录'
-  },
-};
+  }
+})
